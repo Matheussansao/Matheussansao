@@ -41,14 +41,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
 ---
-
-## 🌐 Vamos nos conectar?
-
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](matheussansao@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-sansao-6a0505171)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_matheussansao/?next=%2F)
-
----
 ![Snake animation](https://github.com/Matheussansao/Matheussansao/blob/output/github-contribution-grid-snake.svg)
 ---
 <p align="center">
