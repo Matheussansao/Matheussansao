@@ -30,7 +30,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_matheussansao/?next=%2F)
 
 ---
-
+![Snake animation](https://github.com/Matheussansao/Matheussansao/blob/output/github-contribution-grid-snake.svg)
+---
 <p align="center">
   🌱 <i>“Em construção… assim como cada linha do meu aprendizado.”</i>
 </p>
