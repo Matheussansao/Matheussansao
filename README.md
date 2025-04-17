@@ -1,20 +1,8 @@
 <div align="center">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
 </div>
 
 
-<div align="center">
-  <a href="mailto:matheussansao@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" height="25" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-sansao-6a0505171" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_matheussansao/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" height="25" alt="Instagram" />
-  </a>
-</div>
 
 
 
@@ -27,6 +15,18 @@
   🤖 Aprendendo sobre <strong>Chatbots com IBM Watson</strong><br>
   🚀 Em constante evolução, sempre buscando crescer e aprender mais
 </p>
+
+<div align="center">
+  <a href="mailto:matheussansao@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" height="25" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-sansao-6a0505171" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_matheussansao/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" height="25" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
