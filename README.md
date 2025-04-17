@@ -17,13 +17,14 @@
 
 
 
-<h1 align="center">Olá! 👋 Seja bem-vindo(a) ao meu GitHub</h1>
+<h1 align="center">Fala aí! 👋 Eu sou o Matheus Sansão</h1>
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  💻 Explorando <strong>Python</strong> e <strong>Front-End Design Engineering</strong><br>
-  🚀 Em busca de oportunidades para crescer e colaborar com projetos reais<br>
-  ✨ Entusiasta da criatividade, códigos bem feitos e conexões verdadeiras
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>FIAP</strong><br>
+  💼 Atuo com <strong>Customer Experience</strong> e apoio em processos internos<br>
+  💻 Explorando o mundo da programação com <strong>Python</strong>, <strong>Java</strong> e <strong>Front-End</strong><br>
+  🤖 Aprendendo sobre <strong>Chatbots com IBM Watson</strong><br>
+  🚀 Em constante evolução, sempre buscando crescer e aprender mais
 </p>
 
 ---
